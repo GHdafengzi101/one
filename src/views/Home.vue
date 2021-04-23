@@ -6,6 +6,7 @@
       <p>ninhao</p>
       <p>首页</p>
       <p>首页</p>
+      <p>添加首页测试</p>
     </div>
   </div>
 </template>
