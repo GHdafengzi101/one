@@ -1,6 +1,7 @@
 <template>
   <div id="home">
     <div>{{ msg }}</div>
+    <p>您好</p>
   </div>
 </template>
 
