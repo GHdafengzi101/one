@@ -2,11 +2,11 @@
   <div id="home">
     <div>{{ msg }}</div>
     <p>您好</p>
-    <div>
+    <div> 
       <p>ninhao</p>
-      <p>您好添加了内通adada</p>
+      <p>您好dadada内通adada</p>
       <p>首页</p>
-      <p>添加首页测试</p>
+      <p>大大大所</p>
       <p>您好</p>
       <p>分支首页测试</p>
       <p>分支首页测试</p>
