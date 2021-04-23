@@ -2,6 +2,11 @@
   <div id="home">
     <div>{{ msg }}</div>
     <p>您好</p>
+    <div>
+      <p>首页</p>
+      <p>首页</p>
+      <p>首页</p>
+    </div>
   </div>
 </template>
 
@@ -15,4 +20,6 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+
+</style>
