@@ -4,7 +4,7 @@
     <p>您好</p>
     <div>
       <p>ninhao</p>
-      <p>首页</p>
+      <p>您好添加了内通</p>
       <p>首页</p>
       <p>添加首页测试</p>
     </div>
@@ -15,7 +15,7 @@
 export default {
   data() {
     return {
-      msg: "您好",
+      msg: "不是我",
     };
   },
 };
