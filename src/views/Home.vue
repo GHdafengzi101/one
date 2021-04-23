@@ -12,6 +12,9 @@
       <p>分支首页测试</p>
       <p>测试阶段</p>
     </div>
+    <div>
+      <p>hello world</p>
+    </div>
   </div>
 </template>
 
