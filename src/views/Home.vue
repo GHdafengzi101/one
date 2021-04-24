@@ -2,7 +2,7 @@
   <div id="home">
     <div>{{ msg }}</div>
     <p>您好</p>
-    <div> 
+    <div>
       <p>ninhao</p>
       <p>您好dadada内通adada</p>
       <p>首页</p>
@@ -12,6 +12,7 @@
       <p>分支dsadsadsa试</p>
       不是说
       <p>测试阶段</p>
+      <p>shnem qingkuang</p>
     </div>
     <div>
       <p>hello world</p>
