@@ -4,7 +4,7 @@
     <p>您好</p>
     <div>
       <p>ninhao</p>
-      <p>您好dadada内通adada</p>
+      <p>dsadsa</p>
       <p>首页</p>
       <p>大大大所</p>
       <p>您好</p>
@@ -12,10 +12,11 @@
       <p>分支dsadsadsa试</p>
       不是说
       <p>测试阶段</p>
-      <p>shnem qingkuang</p>
+      <p>shnem bushi</p>
     </div>
     <div>
       <p>hello world</p>
+      <p>ninasid</p>
     </div>
   </div>
 </template>
@@ -24,7 +25,11 @@
 export default {
   data() {
     return {
-      msg: "不是我",
+      msg: "shi wo ",
+
+      obj: {
+        msg: "F",
+      },
     };
   },
 };
